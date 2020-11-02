@@ -1,0 +1,6 @@
+ filter=lfs diff=lfs merge=lfs -text
+.vs/MFCApplication1/v15/Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+MFCApplication1/Debug/MFCApplication1.pch filter=lfs diff=lfs merge=lfs -text
+.vs/MFCApplication1/v15/ipch/210262763d83428b.ipch filter=lfs diff=lfs merge=lfs -text
+.vs/MFCApplication1/v15/ipch/b8118fbee6c48b58.ipch filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
